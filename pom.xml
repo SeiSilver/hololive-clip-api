@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.seisilver.hololive.clip.api</groupId>
-	<artifactId>seisilver</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>hololive-clip-api</artifactId>
+	<version>0.0.1</version>
 	<name>hololive-clip-api</name>
 	<description>Hololive clip crawler</description>
 	<properties>
